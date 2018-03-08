@@ -100,3 +100,4 @@ dalvik.vm.lockprof.threshold=500
 dalvik.vm.image-dex2oat-filter=verify-at-runtime
 net.bt.name=Android
 dalvik.vm.stack-trace-file=/data/anr/traces.txt
+ro.hardware.keystore=msm8953
